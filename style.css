@@ -1,0 +1,33 @@
+#op{
+    text-align: center;
+   font-family: sans-serif; 
+}
+
+#Engine1{
+    text-align: center;
+    text-decoration: underline;
+}
+#Video1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#About1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#Contact1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#dream{
+    text-align: center;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#
